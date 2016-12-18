@@ -1,4 +1,4 @@
-#include "stdafx.h"
+
 #include "vector.h"
 #include <stdlib.h>
 #include < ctime >

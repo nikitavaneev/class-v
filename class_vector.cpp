@@ -1,7 +1,7 @@
 // class_vector.cpp: определяет точку входа для консольного приложения.
 //
 
-#include "stdafx.h"
+
 #include <iostream>
 #include<conio.h>
 #include"vector.h"
